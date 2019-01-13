@@ -9,6 +9,9 @@ The goal was to create a Burger App with MySQL, Node, Express, Handlebars and a 
 3. Create database MySQL database with provided schema and seeds
 4. Run ```node server.js``` in the command line while in the appropriate directory
 
+## Demo
+	
+*Eat-Da-Burger* is deployed to Heroku. Please check it out [here](https://guarded-inlet-27004.herokuapp.com/)
 
 ## Screen Shots
 Main Page <br>
